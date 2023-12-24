@@ -7,3 +7,6 @@ O estudo buscou compreender as perspectivas dos estudantes em relação a quest�
 Os resultados obtidos a partir da análise do questionário ofereceram insights valiosos sobre a diversidade de opiniões dentro do grupo estudado. Além disso, o estudo buscou identificar possíveis influências, como idade, gênero, experiências pessoais e valores pessoais, que poderiam moldar as percepções dos estudantes sobre os temas em discussão.
 
 A pesquisa contribui não apenas para o entendimento das opiniões dos estudantes de medicina em relação a questões polêmicas na área da saúde, mas também pode fornecer subsídios para o desenvolvimento de estratégias educacionais que promovam a reflexão crítica e o debate saudável dentro do ambiente acadêmico.
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfDvdo36wDYzbHLS1AvxStpsGboD9VleTb5Yxqoyjyq2M4p3A/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
