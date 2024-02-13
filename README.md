@@ -9,5 +9,4 @@ Os resultados obtidos a partir da análise do questionário ofereceram insights 
 
 A pesquisa contribui não apenas para o entendimento das opiniões dos estudantes de medicina em relação a questões polêmicas na área da saúde, mas também pode fornecer subsídios para o desenvolvimento de estratégias educacionais que promovam a reflexão crítica e o debate saudável dentro do ambiente acadêmico.
 
-## Confira o questionário usado para pesquisa
-https://docs.google.com/forms/d/e/1FAIpQLSfDvdo36wDYzbHLS1AvxStpsGboD9VleTb5Yxqoyjyq2M4p3A/viewform?embedded=true
+
