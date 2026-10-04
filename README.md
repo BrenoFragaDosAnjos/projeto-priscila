@@ -1,16 +1,16 @@
-# Medical Ethics Survey — Exploratory Data Analysis
+# Pesquisa sobre Ética Médica — Análise Exploratória de Dados
 
-Exploratory data analysis of a medical research survey conducted with medical students at **Universidad del Norte, Paraguay**.
+Análise exploratória de dados de uma pesquisa acadêmica realizada com estudantes de medicina da **Universidad del Norte, no Paraguai**.
 
-The project investigates how students perceive ethical and medico-legal topics and demonstrates an end-to-end workflow from raw survey data to analytical interpretation.
+O projeto investiga como os estudantes percebem temas éticos e médico-legais e demonstra um fluxo completo de análise, desde os dados brutos até a interpretação dos resultados.
 
-## Project context
+## Contexto do projeto
 
-The study was conducted with approximately **59 medical students** and explored opinions about controversial topics in healthcare, including ethical dilemmas, medical practice, personal values, and other factors that may influence decision-making.
+O estudo foi realizado com aproximadamente **59 estudantes de medicina** e explorou opiniões sobre temas controversos na área da saúde, incluindo dilemas éticos, prática médica, valores pessoais e outros fatores que podem influenciar a tomada de decisão.
 
-My contribution to the project focused on the **data analysis workflow**.
+Minha contribuição para o projeto foi focada no **processo de análise dos dados**.
 
-## Repository contents
+## Conteúdo do repositório
 
 ```text
 .
@@ -22,59 +22,59 @@ My contribution to the project focused on the **data analysis workflow**.
 └── README.md
 ```
 
-## Analysis workflow
+## Fluxo de análise
 
 ```text
-Survey responses
+Respostas da pesquisa
       |
       v
-Data inspection
+Inspeção dos dados
       |
       v
-Cleaning and preparation
+Limpeza e preparação
       |
       v
-Exploratory analysis
+Análise exploratória
       |
       v
-Visualizations and comparisons
+Visualizações e comparações
       |
       v
-Interpretation
+Interpretação
       |
       v
-Scientific article
+Artigo científico
 ```
 
-## Skills demonstrated
+## Competências demonstradas
 
-- exploratory data analysis;
-- data cleaning;
-- tabular data manipulation;
-- research-oriented analysis;
-- interpretation of survey responses;
-- communication of analytical findings;
-- collaboration in an academic research project.
+- análise exploratória de dados;
+- limpeza e preparação de dados;
+- manipulação de dados tabulares;
+- análise orientada a pesquisa científica;
+- interpretação de respostas de questionários;
+- comunicação de resultados analíticos;
+- colaboração em projeto acadêmico.
 
-## Technologies
+## Tecnologias utilizadas
 
 - Python
 - Jupyter Notebook
 - Pandas
 - Excel / CSV
 
-## How to explore the project
+## Como explorar o projeto
 
-The main analytical work is available in:
+A principal análise está disponível em:
 
 `IniciacaoCientifica.ipynb`
 
-The repository also includes the dataset, data dictionary, and final paper so the analysis can be understood in its research context.
+O repositório também contém o conjunto de dados, o dicionário de dados e o artigo final, permitindo compreender a análise dentro do contexto completo da pesquisa.
 
-## Notes
+## Observações
 
-This repository is intended as an academic and data-analysis case study. Survey conclusions should be interpreted in the context of the sample and research design rather than generalized beyond the studied population.
+Este repositório deve ser interpretado como um estudo acadêmico e um case de análise de dados. As conclusões devem ser entendidas dentro dos limites da amostra e do desenho da pesquisa, sem generalizações indevidas para outras populações.
 
-## Why this project matters
+## Por que este projeto é relevante
 
-Unlike a synthetic tutorial dataset, this project connects data analysis to a real scientific research workflow. It demonstrates the ability to work with collected data, understand the domain context, and turn responses into structured analytical evidence.
+Ao contrário de um exercício com dados sintéticos, este projeto conecta análise de dados a uma pesquisa científica real. Ele demonstra capacidade de trabalhar com dados coletados, compreender o contexto do domínio e transformar respostas em evidências analíticas estruturadas.
