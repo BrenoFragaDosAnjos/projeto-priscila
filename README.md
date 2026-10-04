@@ -1,12 +1,80 @@
-# projeto-priscila
+# Medical Ethics Survey — Exploratory Data Analysis
 
-## Sobre o projeto:
-O projeto Priscila é uma iniciação científica realizada na Universidad del Norte, no Paraguai que é uma universidade de medicina, o objetivo é investigar os pensamentos dos estudantes de medicina sobre temas polêmicos na área da saúde. Para atingir esse propósito, foi aplicado um questionário abrangente, abordando diversas questões relacionadas aos temas controversos.
+Exploratory data analysis of a medical research survey conducted with medical students at **Universidad del Norte, Paraguay**.
 
-O estudo buscou compreender as perspectivas dos estudantes em relação a questões éticas, debates em torno de tratamentos inovadores, dilemas morais na prática médica e outros temas relevantes. A amostra de 59 estudantes proporcionou uma visão introdutória das opiniões presentes na comunidade acadêmica de medicina.
+The project investigates how students perceive ethical and medico-legal topics and demonstrates an end-to-end workflow from raw survey data to analytical interpretation.
 
-Os resultados obtidos a partir da análise do questionário ofereceram insights valiosos sobre a diversidade de opiniões dentro do grupo estudado. Além disso, o estudo buscou identificar possíveis influências, como idade, gênero, experiências pessoais e valores pessoais, que poderiam moldar as percepções dos estudantes sobre os temas em discussão.
+## Project context
 
-A pesquisa contribui não apenas para o entendimento das opiniões dos estudantes de medicina em relação a questões polêmicas na área da saúde, mas também pode fornecer subsídios para o desenvolvimento de estratégias educacionais que promovam a reflexão crítica e o debate saudável dentro do ambiente acadêmico.
+The study was conducted with approximately **59 medical students** and explored opinions about controversial topics in healthcare, including ethical dilemmas, medical practice, personal values, and other factors that may influence decision-making.
 
+My contribution to the project focused on the **data analysis workflow**.
 
+## Repository contents
+
+```text
+.
+├── IniciacaoCientifica.ipynb
+├── Percepciones eticas de los estudiantes de medicina sobre cuestiones medicas legales.csv
+├── Dicionario_Dados_ic.xlsx
+├── Percepciones eticas de los estudiantes de medicina sobre cuestiones medicas legales.pdf
+├── Cópia traduzida de Percepciones eticas de los estudiantes de medicina sobre cuestiones medicas legales.pdf
+└── README.md
+```
+
+## Analysis workflow
+
+```text
+Survey responses
+      |
+      v
+Data inspection
+      |
+      v
+Cleaning and preparation
+      |
+      v
+Exploratory analysis
+      |
+      v
+Visualizations and comparisons
+      |
+      v
+Interpretation
+      |
+      v
+Scientific article
+```
+
+## Skills demonstrated
+
+- exploratory data analysis;
+- data cleaning;
+- tabular data manipulation;
+- research-oriented analysis;
+- interpretation of survey responses;
+- communication of analytical findings;
+- collaboration in an academic research project.
+
+## Technologies
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Excel / CSV
+
+## How to explore the project
+
+The main analytical work is available in:
+
+`IniciacaoCientifica.ipynb`
+
+The repository also includes the dataset, data dictionary, and final paper so the analysis can be understood in its research context.
+
+## Notes
+
+This repository is intended as an academic and data-analysis case study. Survey conclusions should be interpreted in the context of the sample and research design rather than generalized beyond the studied population.
+
+## Why this project matters
+
+Unlike a synthetic tutorial dataset, this project connects data analysis to a real scientific research workflow. It demonstrates the ability to work with collected data, understand the domain context, and turn responses into structured analytical evidence.
